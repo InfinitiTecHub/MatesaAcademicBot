@@ -1,0 +1,38 @@
+{
+  "Material Engineering": {
+    "Level 100": {
+      "Semester 1": ["files/file1.pdf", "files/file2.pdf"],
+      "Semester 2": ["files/file3.pdf"]
+    },
+    "Level 200": {
+      "Semester 1": ["files/file4.pdf"],
+      "Semester 2": []
+    },
+    "Level 300": {
+      "Semester 1": ["files/file1.pdf", "files/file2.pdf"],
+      "Semester 2": ["files/file3.pdf"]
+    },
+    "Level 400": {
+      "Semester 1": ["files/file4.pdf"],
+      "Semester 2": []
+    }
+  },
+  "Metallurgy Engineering": {
+    "Level 100": {
+      "Semester 1": ["files/file5.pdf"],
+      "Semester 2": ["files/file6.pdf"]
+    },
+    "Level 200": {
+      "Semester 1": [],
+      "Semester 2": []
+    },
+    "Level 300": {
+      "Semester 1": ["files/file1.pdf", "files/file2.pdf"],
+      "Semester 2": ["files/file3.pdf"]
+    },
+    "Level 400": {
+      "Semester 1": ["files/file4.pdf"],
+      "Semester 2": []
+    }
+  }
+}
